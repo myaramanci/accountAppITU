@@ -3,7 +3,7 @@ Bu uygulama basit bir bankacılık sistemine hizmet veren rest api'dir. Bu uygul
     
     - İsimden hesap sorgulama
     - Müşteri hesabına para yatırma
-    - Müşteri hesabından para çekme
+    - Müşteri başka bir hesaba gönderimi
     
 Uygulamanın geliştirmesi tamamlanmıştır fakat hiçbir unit testi bulunmamaktadır. %100 unit test coverage'a ihtiyaç vardır. 
 
